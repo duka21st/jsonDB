@@ -1,5 +1,5 @@
 [
-    {"QuickNet Pass": [
+    {"QuickNetPass": [
         {"packageName":"QuickNet Pass 1GB ","resource":"1GB","daysGranted":"1","listPrice":"KES 20.00"},
         {"packageName":"QuickNet Pass 2GB ","resource":"2GB","daysGranted":"1","listPrice":"KES 25.00"},
         {"packageName":"QuickNet Pass 5GB ","resource":"5GB","daysGranted":"1","listPrice":"KES 30.00"},
@@ -13,7 +13,7 @@
         {"packageName":"WiFiGo 20GB","resource":"20GB","daysGranted":"7","listPrice":"KES 250.00"},
         {"packageName":"WiFiGo 30GB","resource":"30GB","daysGranted":"7","listPrice":"KES 350.00"}
     ]},
-    {"WifiGo Xtra": [
+    {"WifiGoXtra": [
         {"packageName":"WiFiGo Xtra 2GB","resource":"2GB","daysGranted":"30","listPrice":"KES 100.00"},
         {"packageName":"WiFiGo Xtra 5GB","resource":"5GB","daysGranted":"30","listPrice":"KES 150.00"},
         {"packageName":"WiFiGo Xtra 10GB","resource":"10GB","daysGranted":"30","listPrice":"KES 250.00"},
